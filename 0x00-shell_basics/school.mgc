@@ -1,1 +1,1 @@
-ls -la
+find . -type f -empty SCHOOL_
