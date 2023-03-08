@@ -1,2 +1,2 @@
 #!/bin/bash
-0-current_working_directory contains 3
+0-current_working_directory contains 3, it should be 2
