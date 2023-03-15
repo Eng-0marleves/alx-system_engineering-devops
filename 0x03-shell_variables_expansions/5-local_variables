@@ -1,2 +1,2 @@
 #!/bin/bash
-help set
+env
